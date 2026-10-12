@@ -17,7 +17,9 @@ Handelsregister: HRB 24077\
 Registergericht: Amtsgericht Bad Kreuznach
 
 **Vertreten durch:**\
-Christine Hoffmann
+Die Geschäftsführung:\
+Christine Hoffmann\
+Sven Hoffmann
 
 ## Kontakt
 
@@ -27,7 +29,7 @@ E-Mail: service@imhgmbh.de
 ## Umsatzsteuer-ID
 
 Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz:\
-DE311579560
+DE410120798
 
 ## Verbraucher­streit­beilegung/Universal­schlichtungs­stelle
 
